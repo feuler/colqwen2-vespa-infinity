@@ -33,3 +33,4 @@
    python query_vespa.py
    ```
    
+#### Thx to Vespa ! (https://github.com/vespa-engine/sample-apps/tree/master/visual-retrieval-colpali)
