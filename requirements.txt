@@ -1,0 +1,9 @@
+pyvespa
+pillow
+pdf2image
+pypdf
+openai
+numpy
+python-dotenv
+torch
+infinity_emb
