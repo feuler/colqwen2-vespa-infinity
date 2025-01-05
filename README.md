@@ -1,5 +1,6 @@
 ## ColQwen2 retrieval via infinity embedding api and local vespa database - example
 
+(work in progress...)
 
 1. Clone repo
 2. Create python venv or conda env
